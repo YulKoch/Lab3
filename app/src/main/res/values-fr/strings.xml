@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textViewWelcome1">Bienvenue!</string>
+    <string name="buttonThankYou1">Merci!</string>
+    <string name="buttonDontCallMe1">Ne m\'appelle pas comme ça</string>
+    <string name="textViewLabel1">Ne m\'appelle pas comme ça</string>
+    <string name="editTextName1">" hint"</string>
+    <string name="buttonNext1">Suivante</string>
+    <string name="app_name">CST2335_Lab_3</string>
+</resources>

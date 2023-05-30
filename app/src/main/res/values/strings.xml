@@ -1,0 +1,9 @@
+<resources>
+    <string name="textViewLabel1">Enter Your Name</string>
+    <string name="editTextName1"> </string>
+    <string name="buttonNext1">NEXT</string>
+    <string name="textViewWelcome1">Welcome!</string>
+    <string name="buttonThankYou1">THANK YOU!</string>
+    <string name="buttonDontCallMe1">DONT CALL ME THAT</string>
+    <string name="app_name">CST2335_Lab_3</string>
+</resources>
